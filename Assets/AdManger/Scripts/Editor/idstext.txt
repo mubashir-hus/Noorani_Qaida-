@@ -1,0 +1,37 @@
+Noorani quaida
+ca-app-pub-6903062844479705~4559809456
+Follow the implementation guide to integrate the SDK. You'll specify ad type, size, and placement when you integrate the code using these ad unit IDs:
+
+App open High
+ca-app-pub-6903062844479705/9511208642
+
+App open Mid
+ca-app-pub-6903062844479705/9315767526
+
+App open pa
+ca-app-pub-6903062844479705/5295813221
+
+Banner 01
+ca-app-pub-6903062844479705/6733357284
+
+Banner 02
+ca-app-pub-6903062844479705/9781853142
+
+Banner 03
+ca-app-pub-6903062844479705/9618201613
+
+Interstitial high
+ca-app-pub-6903062844479705/8113548250
+
+Interstitial Mid
+ca-app-pub-6903062844479705/5763535320
+
+Interstitial low
+ca-app-pub-6903062844479705/3137371980
+
+Rewarded ads
+ca-app-pub-6903062844479705/7894056409
+
+https://docs.google.com/document/d/16YM6gqCVpPH40W4tMw6P2PuvvohH-qtx_r0IN8joOlM/edit?usp=sharing
+
+com.TheBrainStormers.NoraniQuaida
